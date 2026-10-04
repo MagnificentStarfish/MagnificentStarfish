@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MagnificentStarfish
 - 👀 I’m interested in everything!
-- 🌱 I just graduated from Hack Reactor.
-- 💞️ I’m entering the job market and ready for a career pivot.
+- 🌱 I  graduated from Hack Reactor and the University of West Florida with an MA in Psychology.
+- 💞️ I work for Coca-Cola!
 - 📫 How to reach me? https://www.linkedin.com/in/donald-powell/
 
 <!---
